@@ -57,7 +57,7 @@
 <a href="https://nestjs.com/" target="_blank">
   <img style="margin: 10px" src="https://nestjs.com/img/logo-small.svg" alt="NestJS" height="50" />
 </a>
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/5aa642d8-3632-4c7d-97ce-53169b5aa8de" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" style="margin: 10px" height="50" alt="Express" /></a>
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/14ec5163-e06d-4a53-b75c-a30fb565f86e" alt="AWS" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/a0e0cde1-9940-4d45-9845-adddaa61b691" alt="MongoDB" height="50" /></a>  
